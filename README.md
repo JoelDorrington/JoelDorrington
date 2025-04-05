@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @JoelDorrington
-- 👀 I’m interested in IoT and Web development
-- 🌱 I’m currently learning C# ASP.NET, both Framework and Core
+- 👋 Hi, I’m @JoelDorrington, 7 years experience in Web development.
+- 👀 I’m interested in IoT, AI, and Security (who isnt).
+- 💪 I'm experienced in NodeJS, Python, Redis, MongoDB, Cloud Infrastructure, Docker, Kubernetes, Angular, and JS, CSS and HTML.
+- 🌱 I’m currently learning T-SQL, C# and ASP.NET, both Framework, Core and Blazor.
